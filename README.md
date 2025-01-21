@@ -12,6 +12,7 @@ And then download the model from https://github.com/facebookresearch/segment-any
 
 
 Usage
+
 Cutting Videos into Segments
 To cut a video into 2-minute segments, use the following ffmpeg command:
 ```

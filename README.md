@@ -26,3 +26,5 @@ To run the Tkinter-based GUI for segmenting videos, run:
 ```
 python video.py
 ```
+
+Use keyboard "q" for redo. "e" for select. "space" for next frame

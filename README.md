@@ -23,4 +23,6 @@ This command will split <your_video>.mp4 into multiple segments, each 2 minutes 
 
 Segmenting Videos with SAM
 To run the Tkinter-based GUI for segmenting videos, run:
+```
 python video.py
+```

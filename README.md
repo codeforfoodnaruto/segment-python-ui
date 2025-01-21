@@ -1,7 +1,8 @@
 Video Segmentation
 This project provides tools for segmenting  videos using the Segment Anything Model (SAM) and a Tkinter-based GUI. It also includes scripts for cutting videos into segments.
 
-Requirements
+Requirements:
+
 Install the required Python packages using pip:
 
 ```

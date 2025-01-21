@@ -7,6 +7,7 @@ Install the required Python packages using pip:
 ```
 pip install -r requirements.txt
 ```
+And then download the model from https://github.com/facebookresearch/segment-anything?tab=readme-ov-file#model-checkpoints
 
 
 Usage

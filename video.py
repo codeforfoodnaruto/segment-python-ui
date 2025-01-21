@@ -181,10 +181,10 @@ class SamSegGUI:
 def main():
     root = tk.Tk()
 
-    video_path = "basketball.mp4"
-    sam_checkpoint = "sam_vit_h_4b8939.pth"
+    video_path = "<your_video>"
+    sam_checkpoint = "<model>"
 
-    app = SamSegGUI(root, video_path, sam_checkpoint, model_type="vit_h")
+    app = SamSegGUI(root, video_path, sam_checkpoint, model_type="<type>")
 
     root.mainloop()
 
